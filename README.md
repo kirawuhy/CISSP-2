@@ -1,5 +1,5 @@
 # CISSP
 
-*** Imran's CISSP Prep Stuff
+*** Kira's CISSP Prep Stuff
 
 *** PLEASE DO NOT EDIT OR COMMIT THIS REPOSITORY. THANKS IN ADAVANCE.
